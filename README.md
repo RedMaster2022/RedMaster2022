@@ -1,10 +1,9 @@
 <h1 style="text-align:center;"> Hi 👋 My Name is Ali Shahbaz ✌️ </h1>
 
-<div style="display:flex;justify-content:space-between;align-items:center;">
-<h2>✨RedMaster✨</h2>
+## ✨RedMaster✨
+
 <a href="#">
 <img src="./redmaster-logo.png" width="170" height="150" style="display:inline;"/></a>
-</div>
 
 > Web Developer
 > Teacher
